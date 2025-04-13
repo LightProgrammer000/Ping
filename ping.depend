@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744584056 source:/root/Documents/PROGRAMMER/03 - Programs/C/PING/ping/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
