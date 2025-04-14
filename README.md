@@ -18,4 +18,3 @@
 
    ```bash
    git clone https://github.com/LightProgrammer000/Ping.git
-   cd Ping
